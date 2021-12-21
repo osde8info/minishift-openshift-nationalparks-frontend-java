@@ -14,7 +14,7 @@
     <packaging>jar</packaging>
 
     <properties>
-        <netflix.feign.version>9.3.1</netflix.feign.version>
+        <netflix.feign.version>10.5.0</netflix.feign.version>
         <springboot.version>1.4.0.RELEASE</springboot.version>
     </properties>
 
